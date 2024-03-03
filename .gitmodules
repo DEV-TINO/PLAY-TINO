@@ -1,0 +1,6 @@
+[submodule "PLAY-TINO-BE"]
+  path = PLAY-TINO-BE
+  url = git@github.com:DEV-TINO/PLAY-TINO-BE.git
+[submodule "PLAY-TINO-FE"]
+	path = PLAY-TINO-FE
+	url = git@github.com:DEV-TINO/PLAY-TINO-FE.git

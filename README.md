@@ -22,9 +22,6 @@ We welcome contributions to enhance the Cat World Cup & Games project! Whether i
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 For any questions or suggestions, feel free to open an issue or contact us directly at [kinsongjun13@gmail.com](mailto:kinsongjun13@gmail.com).
 

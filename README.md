@@ -15,7 +15,7 @@ Challenge your brain with a mix of nonsense and general knowledge questions. Thi
 
 ## Team
 
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; width: 100%">
   <table>
     <tr>
       <td><img src="https://avatars.githubusercontent.com/u/90247223?v=4" width="150" height="150"/></td>
@@ -34,6 +34,15 @@ Challenge your brain with a mix of nonsense and general knowledge questions. Thi
       <td style="text-align: center;"><a href="https://github.com/6suhyeon">@6suhyeon</a><br/>Backend Developer</td>
       <td style="text-align: center;"><a href="https://github.com/niireymik">@niireymik</a><br/>Backend Developer</td>
       <td style="text-align: center;"><a href="https://github.com/taegeon3">@taegeon3</a><br/>Backend Developer</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">Team Leader</td>
+      <td style="text-align: center;">Assistant Team Leader</td>
+      <td style="text-align: center;">Frontend Developer</td>
+      <td style="text-align: center;">Frontend Developer</td>
+      <td style="text-align: center;">Backend Developer</td>
+      <td style="text-align: center;">Backend Developer</td>
+      <td style="text-align: center;">Backend Developer</td>
     </tr>
   </table>
 </div>

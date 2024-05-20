@@ -15,37 +15,22 @@ Challenge your brain with a mix of nonsense and general knowledge questions. Thi
 
 ## Team
 
-<div style="overflow-x: auto; width: 100%">
-  <table>
-    <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/90247223?v=4" width="150" height="150"/></td>
-      <td><img src="https://avatars.githubusercontent.com/u/91742262?v=4" width="150" height="150"/></td>
-      <td><img src="https://avatars.githubusercontent.com/u/146654623?v=4" width="150" height="150"/></td>
-      <td><img src="https://avatars.githubusercontent.com/u/59122931?v=4" width="150" height="150"/></td>
-      <td><img src="https://avatars.githubusercontent.com/u/157786074?v=4" width="150" height="150"/></td>
-      <td><img src="https://avatars.githubusercontent.com/u/155354743?v=4" width="150" height="150"/></td>
-      <td><img src="https://avatars.githubusercontent.com/u/157789293?v=4" width="150" height="150"/></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">Sungjun Kim<br/><a href="https://github.com/kim-song-jun">@kim-song-jun</a></td>
-      <td style="text-align: center;">이승민<br/><a href="https://github.com/seeungmin">@seeungmin</a></td>
-      <td style="text-align: center;">jeongyun<br/><a href="https://github.com/jzongyun">@jzongyun</a></td>
-      <td style="text-align: center;"><a href="https://github.com/min-minnn">@min-minnn</a></td>
-      <td style="text-align: center;"><a href="https://github.com/6suhyeon">@6suhyeon</a></td>
-      <td style="text-align: center;"><a href="https://github.com/niireymik">@niireymik</a></td>
-      <td style="text-align: center;"><a href="https://github.com/taegeon3">@taegeon3</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">Team Leader</td>
-      <td style="text-align: center;">Assistant Team Leader</td>
-      <td style="text-align: center;">Frontend Developer</td>
-      <td style="text-align: center;">Frontend Developer</td>
-      <td style="text-align: center;">Backend Developer</td>
-      <td style="text-align: center;">Backend Developer</td>
-      <td style="text-align: center;">Backend Developer</td>
-    </tr>
-  </table>
-</div>
+### Frontend Team
+|  | Name         | Role                | GitHub Link                                               |
+| :-----------------------------------------------------------------------------------------: | :----------- | :------------------ | :------------------------------------------------------- |
+| <img src="https://avatars.githubusercontent.com/u/90247223?v=4" width="100" height="100"/> | Sungjun Kim  | Team Leader       | [@kim-song-jun](https://github.com/kim-song-jun)             |
+| <img src="https://avatars.githubusercontent.com/u/146654623?v=4" width="100" height="100"/> | jeongyun     | Frontend Developer  | [@jzongyun](https://github.com/jzongyun)                 |
+| <img src="https://avatars.githubusercontent.com/u/59122931?v=4" width="100" height="100"/>  | min-minnn    | Frontend Developer  | [@min-minnn](https://github.com/min-minnn)               |
+
+### Backend Team
+|  | Name         | Role               | GitHub Link                                                |
+| :----------------------------------------------------------------------------------------: | :----------- | :----------------- | :-------------------------------------------------------- |
+| <img src="https://avatars.githubusercontent.com/u/91742262?v=4" width="100" height="100"/> | 이승민         | Assistant Team Leader, Backend Developer | [@seeungmin](https://github.com/seeungmin)               |
+| <img src="https://avatars.githubusercontent.com/u/157786074?v=4" width="100" height="100"/> | 6suhyeon     | Backend Developer  | [@6suhyeon](https://github.com/6suhyeon)                 |
+| <img src="https://avatars.githubusercontent.com/u/155354743?v=4" width="100" height="100"/> | niireymik    | Backend Developer  | [@niireymik](https://github.com/niireymik)               |
+| <img src="https://avatars.githubusercontent.com/u/157789293?v=4" width="100" height="100"/> | taegeon3     | Backend Developer  | [@taegeon3](https://github.com/taegeon3)                 |
+
+
 
 
 

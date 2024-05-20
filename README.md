@@ -15,10 +15,30 @@ Challenge your brain with a mix of nonsense and general knowledge questions. Thi
 
 ## Team
 
-| <img src="https://avatars.githubusercontent.com/u/90247223?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/91742262?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/146654623?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/59122931?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/157786074?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/155354743?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/157789293?v=4" width="150" height="150"/> |
-| :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-|              Sungjun Kim<br/>[@kim-song-jun](https://github.com/kim-song-jun)              |                     이승민<br/>[@seeungmin](https://github.com/seeungmin)                     |                    jeongyun<br/>[@jzongyun](https://github.com/jzongyun)                    |                         [@min-minnn](https://github.com/min-minnn)                         |                          [@6suhyeon](https://github.com/6suhyeon)                           |                         [@niireymik](https://github.com/niireymik)                          |                          [@taegeon3](https://github.com/taegeon3)                           |
-|                                        Team Leader                                         |                                   Assistant Team Leader                                    |                                     Frontend Developer                                      |                                     Frontend Developer                                     |                                      Backend Developer                                      |                                      Backend Developer                                      |                                      Backend Developer                                      |
+<div style="overflow-x: auto;">
+  <table>
+    <tr>
+      <td><img src="https://avatars.githubusercontent.com/u/90247223?v=4" width="150" height="150"/></td>
+      <td><img src="https://avatars.githubusercontent.com/u/91742262?v=4" width="150" height="150"/></td>
+      <td><img src="https://avatars.githubusercontent.com/u/146654623?v=4" width="150" height="150"/></td>
+      <td><img src="https://avatars.githubusercontent.com/u/59122931?v=4" width="150" height="150"/></td>
+      <td><img src="https://avatars.githubusercontent.com/u/157786074?v=4" width="150" height="150"/></td>
+      <td><img src="https://avatars.githubusercontent.com/u/155354743?v=4" width="150" height="150"/></td>
+      <td><img src="https://avatars.githubusercontent.com/u/157789293?v=4" width="150" height="150"/></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">Sungjun Kim<br/><a href="https://github.com/kim-song-jun">@kim-song-jun</a><br/>Team Leader</td>
+      <td style="text-align: center;">이승민<br/><a href="https://github.com/seeungmin">@seeungmin</a><br/>Assistant Team Leader</td>
+      <td style="text-align: center;">jeongyun<br/><a href="https://github.com/jzongyun">@jzongyun</a><br/>Frontend Developer</td>
+      <td style="text-align: center;"><a href="https://github.com/min-minnn">@min-minnn</a><br/>Frontend Developer</td>
+      <td style="text-align: center;"><a href="https://github.com/6suhyeon">@6suhyeon</a><br/>Backend Developer</td>
+      <td style="text-align: center;"><a href="https://github.com/niireymik">@niireymik</a><br/>Backend Developer</td>
+      <td style="text-align: center;"><a href="https://github.com/taegeon3">@taegeon3</a><br/>Backend Developer</td>
+    </tr>
+  </table>
+</div>
+
+
 
 ## Contributing
 We welcome contributions to enhance the Cat World Cup & Games project! Whether it's improving existing features, adding new ones, or fixing bugs, your help is appreciated. Please follow these steps to contribute:

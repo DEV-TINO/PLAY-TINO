@@ -27,13 +27,13 @@ Challenge your brain with a mix of nonsense and general knowledge questions. Thi
       <td><img src="https://avatars.githubusercontent.com/u/157789293?v=4" width="150" height="150"/></td>
     </tr>
     <tr>
-      <td style="text-align: center;">Sungjun Kim<br/><a href="https://github.com/kim-song-jun">@kim-song-jun</a><br/>Team Leader</td>
-      <td style="text-align: center;">이승민<br/><a href="https://github.com/seeungmin">@seeungmin</a><br/>Assistant Team Leader</td>
-      <td style="text-align: center;">jeongyun<br/><a href="https://github.com/jzongyun">@jzongyun</a><br/>Frontend Developer</td>
-      <td style="text-align: center;"><a href="https://github.com/min-minnn">@min-minnn</a><br/>Frontend Developer</td>
-      <td style="text-align: center;"><a href="https://github.com/6suhyeon">@6suhyeon</a><br/>Backend Developer</td>
-      <td style="text-align: center;"><a href="https://github.com/niireymik">@niireymik</a><br/>Backend Developer</td>
-      <td style="text-align: center;"><a href="https://github.com/taegeon3">@taegeon3</a><br/>Backend Developer</td>
+      <td style="text-align: center;">Sungjun Kim<br/><a href="https://github.com/kim-song-jun">@kim-song-jun</a></td>
+      <td style="text-align: center;">이승민<br/><a href="https://github.com/seeungmin">@seeungmin</a></td>
+      <td style="text-align: center;">jeongyun<br/><a href="https://github.com/jzongyun">@jzongyun</a></td>
+      <td style="text-align: center;"><a href="https://github.com/min-minnn">@min-minnn</a></td>
+      <td style="text-align: center;"><a href="https://github.com/6suhyeon">@6suhyeon</a></td>
+      <td style="text-align: center;"><a href="https://github.com/niireymik">@niireymik</a></td>
+      <td style="text-align: center;"><a href="https://github.com/taegeon3">@taegeon3</a></td>
     </tr>
     <tr>
       <td style="text-align: center;">Team Leader</td>
